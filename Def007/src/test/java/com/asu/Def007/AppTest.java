@@ -1,4 +1,4 @@
-package com.asu.testjenkin;
+package com.asu.Def007;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
